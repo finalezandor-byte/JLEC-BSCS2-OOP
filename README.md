@@ -7,5 +7,5 @@
 - year = 2
 - block = A
 - bmonth = August
-- bday = 08
+- bday = 13
 - byear = 2006
